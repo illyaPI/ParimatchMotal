@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757071584872",
+    "project_id": "comparismatacpaapp",
+    "storage_bucket": "comparismatacpaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757071584872:android:927a5fd49adf79ed62e5dd",
+        "android_client_info": {
+          "package_name": "com.paris.matac.pa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757071584872-50a8stlt0tmt9ro7hfpulv273i17ns72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2V91cMM-AQ6tpdqBLZ6ulpLU5xfI6T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757071584872-50a8stlt0tmt9ro7hfpulv273i17ns72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
